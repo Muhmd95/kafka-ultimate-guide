@@ -1,0 +1,16 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Editors & IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

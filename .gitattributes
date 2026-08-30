@@ -1,0 +1,6 @@
+* text=auto
+*.go text
+*.md text
+*.yml text
+*.yaml text
+*.properties text
